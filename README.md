@@ -22,10 +22,10 @@ Voici les résultats des tests de performance pour POGAT :
 - **Temps de décodage** : 0.0020 secondes
 - **Vitesse de décodage** : 8 701 668.01 caractères/seconde
 
-### Test 2 : Longueur du texte = 100 000 caractères
-- **Temps d'encodage** : 12.5 secondes
-- **Vitesse d'encodage** : 8 000 caractères/seconde
-- **Temps de décodage** : 0.020 secondes
-- **Vitesse de décodage** : 5 000 000 caractères/seconde
+### Test 2 : Longueur du texte = 104 900 caractères
+- **Temps d'encodage** : 13.3521 secondes
+- **Vitesse d'encodage** : 7 856.46 caractères/seconde
+- **Temps de décodage** : 0.0110 secondes
+- **Vitesse de décodage** : 9 534 781.44 caractères/seconde
 
 Ces performances peuvent varier selon le matériel utilisé et la configuration GPU.
