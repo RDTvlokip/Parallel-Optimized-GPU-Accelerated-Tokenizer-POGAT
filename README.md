@@ -31,7 +31,7 @@ Here are the performance test results for POGAT:
 ### Performance Stats:
 - **CPU Usage**: 19.3%
 - **RAM Used**: 51.48 MB
-- **GPU Used**: 1.81 GB out of 11.00 GB (16.4%)
+- **GPU Used**: 1.81 GB out of 11.00 GB (16.4%) **Note:** Roblox was running in the background, so this is not the full usage of the GPU by POGAT alone! 😆
 
 And guess what? **Roblox** was running at the same time! 😎 This incredible performance was achieved even while the game was running. Imagine the power of POGAT! 💥
 
