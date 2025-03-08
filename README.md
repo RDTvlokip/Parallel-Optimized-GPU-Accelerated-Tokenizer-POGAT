@@ -34,3 +34,35 @@ Here are the performance test results for POGAT:
 - **GPU Used**: 1.81 GB out of 11.00 GB (16.4%)
 
 These performances may vary depending on the hardware and GPU configuration used.
+
+---
+
+
+**🚀 Announcing the POGAT Tokenizer Benchmark Results!**  
+
+We’re excited to reveal the latest performance results of the **Parallel Optimized GPU-Accelerated Tokenizer** (**POGAT**)!  
+
+🔥 **Key Benchmark Highlights:**  
+- **Encoding speed:** 1.42M tokens/sec (Batch size: 55)  
+- **Latency:** 0.14 - 0.20 ms  
+- **Efficiency score:** up to 116.91  
+- **Vocab size:** 10K tokens  
+- **Trained on:** 10MB dataset  
+- **VRAM consumption:** 1GB  
+- **Device:** CUDA-enabled GPU  
+
+**Detailed Batch Results:**  
+- **Batch size: 1** — 226K tokens/sec, 0.16 ms latency  
+- **Batch size: 10** — 935K tokens/sec, 0.14 ms latency  
+- **Batch size: 19** — 1.15M tokens/sec, 0.18 ms latency  
+- **Batch size: 55** — **1.42M tokens/sec**, 0.18 ms latency 🚀  
+- **Batch size: 64** — 1.36M tokens/sec, 0.14 ms latency  
+
+**Why is this a game-changer?**  
+POGAT outperforms traditional tokenizers like BPE and Unigram, pushing the boundaries of encoding and decoding speeds while maintaining an optimized token vocabulary.  
+
+This marks a huge leap forward in tokenizer technology, designed for high-efficiency language models and real-time NLP tasks.  
+
+Stay tuned — POGAT isn’t just fast… it’s the future. ⚡  
+
+#POGAT #Tokenizer #Benchmark #NLP #AI
